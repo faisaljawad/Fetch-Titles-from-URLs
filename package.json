@@ -1,0 +1,20 @@
+{
+  "name": "faisaljawad_careaxiom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.1",
+    "http": "^0.0.1-security",
+    "node-fetch": "^3.0.0",
+    "Router": "^2.1.0",
+    "routes": "^2.1.0",
+    "utility": "^1.17.0"
+  }
+}
